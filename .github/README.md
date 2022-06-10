@@ -2,7 +2,6 @@
 <br>
 
 ## webRequestBlocking for Manifest V3
-
 Extension Manifest V3 might have made webRequestBlocking a pain in the ass to migrate, but it isn't impossible to use.
 
 ## How to use this
