@@ -1,6 +1,6 @@
 {
   "name": "blocking-extension",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Equivalent of webRequestBlocking for Manifest V3",
   "scripts": {
     "setup": "npm install",
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/afkvido/Blocking/issues"
   },
-  "homepage": "https://github.comafkvido/Blocking",
+  "homepage": "https://github.com/afkvido/Blocking",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/afkvido/Blocking.git"
