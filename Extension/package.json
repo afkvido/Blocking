@@ -1,6 +1,6 @@
 {
   "name": "blocking-extension",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Equivalent of webRequestBlocking for Manifest V3",
   "scripts": {
     "setup": "npm install",
@@ -14,7 +14,25 @@
   },
   "author": "gemsvido",
   "license": "MIT",
+  "keywords": [
+    "extension",
+    "chrome",
+    "manifest",
+    "mv3",
+    "blocking",
+    "webRequestBlocking",
+    "webRequest",
+    "declarativeNetRequest"
+  ],
   "dependencies": {
     "zip-dir": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/afkvido/Blocking/issues"
+  },
+  "homepage": "https://github.comafkvido/Blocking",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afkvido/Blocking.git"
   }
 }
