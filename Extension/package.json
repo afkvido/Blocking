@@ -1,17 +1,15 @@
 {
   "name": "blocking-extension",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Equivalent of webRequestBlocking for Manifest V3",
   "scripts": {
     "setup": "npm install",
-
     "start": "node build.js",
     "build": "node build.js",
     "package": "node build.js",
     "zip": "node build.js",
     "crx": "node build.js",
     "xpi": "node build.js",
-
     "quickstart": "npm install && node build.js"
   },
   "author": "gemsvido",
