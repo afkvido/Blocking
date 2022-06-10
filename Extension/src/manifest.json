@@ -1,0 +1,30 @@
+{
+	"name": "webRequestBlocking Extension 3 | WBX3",
+	"version": "3.0.0",
+	"description": "A webRequestBlocking Extension for Manifest V3",
+	"permissions": [
+		"declarativeNetRequest"
+	],
+	"icons": {
+		"16": "assets/x16.png",
+		"48": "assets/x48.png",
+		"128": "assets/x128.png"
+	},
+	"declarative_net_request" : {
+		"rule_resources" : [{
+			"id": "ruleset_1",
+			"enabled": true,
+			"path": "block.json"
+		}]
+	},
+	"action": {
+		"default_popup": "popup.html",
+		"default_icons": {
+			"16": "assets/x16.png",
+			"48": "assets/x48.png",
+			"128": "assets/x128.png"
+		},
+		"default_title": "webRequestBlocking Extension | WBX3"
+	},
+	"manifest_version": 3
+}
