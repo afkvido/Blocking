@@ -1,6 +1,6 @@
 {
   "name": "blocking-extension",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "Equivalent of webRequestBlocking for Manifest V3",
   "scripts": {
     "setup": "npm install",
